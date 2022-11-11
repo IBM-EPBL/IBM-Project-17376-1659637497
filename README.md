@@ -3,7 +3,7 @@ Smart Lender - Applicant Credibility Prediction for Loan Approval
 
 
 # Team Memebers:
-Team Lead : Jeyanandhini. J
+<b>Team Lead : Jeyanandhini. J<b>
 Sivaranjani. K
 Sivani. K       
 Brindha. S
