@@ -22,4 +22,4 @@ We will be using classification algorithms such as Decision tree, Random forest,
       <b><li>Team Member 3   : Brindha. S</li><b><br>
 
 
-PROJEC DEMO LINK - ![text](httpsdrive.google.comfiled12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvtviewusp=sharing}
+PROJEC DEMO LINK - [text](httpsdrive.google.comfiled12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvtviewusp=sharing}
