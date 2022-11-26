@@ -20,6 +20,3 @@ We will be using classification algorithms such as Decision tree, Random forest,
   <b><li>Team Member 1   : Sivaranjani. K</li><b><br>
     <b><li>Team Member 2   : Sivani. K</li><b><br>
       <b><li>Team Member 3   : Brindha. S</li><b><br>
-
-
-PROJECT LINK - [https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing]()
